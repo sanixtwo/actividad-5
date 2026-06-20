@@ -1,0 +1,9 @@
+1. ¿Qué hace esta ruta?
+Esta ruta escucha solicitudes HTTP de tipo POST en la dirección '/reporte'. Cuando recibe una petición, extrae un texto llamado 'mensaje' que viene dentro del cuerpo de la solicitud (req.body.mensaje) y responde al cliente enviando un objeto en formato JSON. Esta respuesta confirma que el estado es "Reporte recibido" y le devuelve el mismo mensaje que se envió.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+
+En el contexto de una aplicación comunitaria, esta ruta POST podría servir para:
+- Permitir que los vecinos envíen reportes de daños o incidentes en el barrio (por ejemplo, "Luz de la esquina dañada").
+- Crear un buzón de sugerencias, quejas o reclamos para la junta de acción comunal.
+- Notificar alertas de seguridad o emergencias comunitarias en tiempo real.

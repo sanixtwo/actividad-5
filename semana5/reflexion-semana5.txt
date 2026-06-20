@@ -1,0 +1,9 @@
+Las APIs son básicamente como los cables que conectan todo.
+ En una comunidad, en vez de tener la información 
+ regada en mil chats de WhatsApp donde todo se pierde,
+  una API permite que si alguien reporta un daño, un robo o una alerta, 
+  eso viaje automáticamente a un solo mapa o base de datos centralizada. 
+  Al final, lo que hacen es ordenar el caos:
+   filtran los reportes por categorías,
+    los guardan organizados y hacen que cualquiera pueda ver qué está pasando en tiempo real sin tener que leer quinientos mensajes. 
+    Es pasar de las alertas sueltas a tener una herramienta comunitaria que de verdad sirva para tomar decisiones juntos.
